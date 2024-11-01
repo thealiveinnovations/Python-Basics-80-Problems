@@ -1,4 +1,4 @@
-# Basic Python Solutions
+# Python Basics 80 Problems
 
 This repository contains solutions to 80 basic Python problems, organized by topic to help you practice fundamental concepts. Each folder focuses on a specific topic, with 10 exercises per topic to build your skills gradually.
 
